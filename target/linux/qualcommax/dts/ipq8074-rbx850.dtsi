@@ -51,7 +51,7 @@
 };
 
 &wifi {
-	qcom,ath11k-calibration-variant = "Netgear-RBK850";
+	qcom,calibration-variant = "Netgear-RBK850";
 };
 
 &dp1 {
